@@ -8,7 +8,7 @@
 
 This project is built upon the principles of projectile motion. Going beyond standard requirements, it introduces **environmental factors** and **penalty mechanics** to add strategic depth to the gameplay.
 
-### ✨ Key Features (Custom Additions)
+### ✨ Key Features
 
 This game includes:
 
